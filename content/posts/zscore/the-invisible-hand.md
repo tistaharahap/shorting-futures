@@ -83,3 +83,5 @@ Simple no trade zone rule:
 ![APEUSDT](https://s3.tradingview.com/snapshots/e/EeF7q425.png)
 
 ![ATOMUSDT](https://s3.tradingview.com/snapshots/x/x2iwhBZy.png)
+
+![AXSUSDT](https://s3.tradingview.com/snapshots/5/5qolLetH.png)
