@@ -1,0 +1,4 @@
+baseURL = 'https://shortingfutures.me/'
+languageCode = 'en-us'
+title = 'Shorting Futures'
+theme = "learn"
