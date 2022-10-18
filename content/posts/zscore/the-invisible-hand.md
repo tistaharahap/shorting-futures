@@ -75,3 +75,11 @@ Our entries are based on the following:
 Simple no trade zone rule:
 
 **Don't do any entries if Z Score or MAD - Score Spot is not above `1.69`, both of them MUST agree**
+
+---
+
+![1000LUNCUSDT](https://s3.tradingview.com/snapshots/1/1fAe15iP.png)
+
+![APEUSDT](https://s3.tradingview.com/snapshots/e/EeF7q425.png)
+
+![ATOMUSDT](https://s3.tradingview.com/snapshots/x/x2iwhBZy.png)
