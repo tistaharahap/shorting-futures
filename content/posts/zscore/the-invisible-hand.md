@@ -70,3 +70,8 @@ Our entries are based on the following:
 * MAD - Score Spot is offside above `1.69`
 * Open Interest is peaking
 * Short squeeze is happening or has happened
+* Spot prices have peaked and higher than futures prices
+
+Simple no trade zone rule:
+
+**Don't do any entries if Z Score or MAD - Score Spot is not above `1.69`, both of them MUST agree**
