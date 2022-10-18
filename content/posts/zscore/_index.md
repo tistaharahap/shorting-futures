@@ -27,6 +27,7 @@ The term used in the video is `codependency` which I absolutely like. It's sayin
 The last video talks about standard deviations larger than 1.69 and lower than -1.69 as outliers. In crypto though and especially altcoins, the threshold may be different for different coins. Sometimes you'll just see a completely abandoned coin by market makers but when it pumps, it's going shoot so high that its Zscore for the candle when the pump happened can shot above 10.
 
 Rule of thumb:
+
 * Parameters change all the time
 * No 1 size fits all if using Zscore just for 1 pair
 * If used for comparing multiple coins, 1.69 may just be enough.
