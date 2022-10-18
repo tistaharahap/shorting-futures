@@ -60,6 +60,6 @@ Assuming that the futures market is using 20x leverage, that's more than 10x the
 
 Let's look once again how the trading setup looks like so far and annotate with where our positions would look like.
 
-![The setup](https://s3.tradingview.com/snapshots/5/59AzcF7Z.png)
+![The setup](https://s3.tradingview.com/snapshots/3/3IiL3k4W.png)
 
 I would say that's the conservative setup that would most likely apply in 9 out 10 situations. Focusing just on these 2 setups, in the span of ~3 days, we got 2 entries with significant profits. If you just have 1 position with isolated margin of 20x, you don't need to trade anymore that week. You have just produced a **7x** return in just 3 days.
