@@ -4,6 +4,8 @@ date: 2022-10-14T15:17:18+04:00
 draft: false
 ---
 
+## Source Code
+
 ```
 //@version=5
 indicator("MAD - Score Spot", format=format.price)
